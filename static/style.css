@@ -1,0 +1,12 @@
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  color: hotpink;
+}
+img {
+  width: 400px;
+  margin: auto;
+  display: block;
+  box-shadow: 5px 5px 5px gainsboro;
+}
